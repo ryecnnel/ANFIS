@@ -1,0 +1,1 @@
+export PYTHONPATH="/Users/yuyaarai/Master1/DeepSIC/:$PYTHONPATH"
